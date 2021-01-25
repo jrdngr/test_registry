@@ -4,3 +4,4 @@
 {"name":"my_lib","vers":"0.1.3","deps":[],"features":{},"cksum":"336a5bb2c7665ef307e4836cfbd8aabc8f85993f0ce172874e3a14102505a721","yanked":true,"links":null}
 {"name":"my_lib","vers":"0.1.4","deps":[],"features":{},"cksum":"796d33fb55e35927a4207f71407d8b9dfa8e63ad74bf80ce5aa12ad303e1852f","yanked":false,"links":null}
 {"name":"my_lib","vers":"0.1.5","deps":[],"features":{},"cksum":"0574dfe130c1ea271f25dfbc0e2546c567af934a6c4df355274638bc8eeae2ab","yanked":false,"links":null}
+{"name":"my_lib","vers":"0.1.10","deps":[],"features":{},"cksum":"8e4de28c47ecd6e23e72c7d2946505387c9abc646cebcc2beb9137422cf4106b","yanked":false,"links":null}
