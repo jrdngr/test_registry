@@ -2,7 +2,7 @@ VERSION_NUMBER=$1
 
 sed -i "s/version = \".\+\"/version = \"$VERSION_NUMBER\"/" Cargo.toml
 
-cargo index add --index ../.. --index-url _fake_ --allow-dirty
+cargo index add --index ../.. --index-url _fake_ -- --allow-dirty
 
 git commit --all -m "$VERSION_NUMBER"
 git push
