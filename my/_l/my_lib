@@ -17,3 +17,4 @@
 {"name":"my_lib","vers":"0.1.20","deps":[],"features":{},"cksum":"8f0c62648210ef63e7f4710d9c38d17c3cfd9bca6a056838b28743a4a5a209c8","yanked":false,"links":null}
 {"name":"my_lib","vers":"0.1.21","deps":[],"features":{},"cksum":"45fd5496d8a694343aca9cc6caa2f45547663f510dc322a7cd4f915a45ec2adc","yanked":true,"links":null}
 {"name":"my_lib","vers":"0.1.22","deps":[],"features":{},"cksum":"99f628efbbe06016323a61460e1c658195bce82d90f057df958bb4ae55909da6","yanked":false,"links":null}
+{"name":"my_lib","vers":"0.1.23","deps":[],"features":{},"cksum":"c10d7b4ff36fb96b8d439f87bc4334c6602e26a60ac7d6e0708f9774b007f1a5","yanked":false,"links":null}
