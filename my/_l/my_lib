@@ -15,4 +15,4 @@
 {"name":"my_lib","vers":"0.1.18","deps":[],"features":{},"cksum":"4a2349fc3fe0f8a3c5f0ac2463311097a0a92ca54a97f1a86e784e6589ee9fe3","yanked":false,"links":null}
 {"name":"my_lib","vers":"0.1.19","deps":[],"features":{},"cksum":"079aeab41e7770069d059a53478ea50033daeaaaae93e7ac48a1f77850d8c2fb","yanked":false,"links":null}
 {"name":"my_lib","vers":"0.1.20","deps":[],"features":{},"cksum":"8f0c62648210ef63e7f4710d9c38d17c3cfd9bca6a056838b28743a4a5a209c8","yanked":false,"links":null}
-{"name":"my_lib","vers":"0.1.21","deps":[],"features":{},"cksum":"45fd5496d8a694343aca9cc6caa2f45547663f510dc322a7cd4f915a45ec2adc","yanked":false,"links":null}
+{"name":"my_lib","vers":"0.1.21","deps":[],"features":{},"cksum":"45fd5496d8a694343aca9cc6caa2f45547663f510dc322a7cd4f915a45ec2adc","yanked":true,"links":null}
