@@ -23,3 +23,4 @@
 {"name":"my_lib","vers":"0.2.2","deps":[],"features":{},"cksum":"27ef7459fffa0f5691c205f05bd222275f398d3f2b637387bf69d48028bebb78","yanked":false,"links":null}
 {"name":"my_lib","vers":"0.2.3","deps":[],"features":{},"cksum":"2cce0701dbc0cf901ab36b7ace6b8ec0b85b05f247d29844ef16929b0999e583","yanked":false,"links":null}
 {"name":"my_lib","vers":"0.2.4","deps":[],"features":{},"cksum":"983872041fd48658b49a1e6057cfdd678571171e252d72d8de1fb18cabc16c7a","yanked":false,"links":null}
+{"name":"my_lib","vers":"0.2.5","deps":[],"features":{},"cksum":"dcb708a56f30889a389edbc9e708f1310704e9832a7d6d68b611845406f6f2ee","yanked":false,"links":null}
