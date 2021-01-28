@@ -9,6 +9,6 @@ dependencies = [
 
 [[package]]
 name = "my_lib"
-version = "0.1.23"
+version = "0.2.0"
 source = "registry+https://github.com/picklenerd/test_registry"
-checksum = "c10d7b4ff36fb96b8d439f87bc4334c6602e26a60ac7d6e0708f9774b007f1a5"
+checksum = "8443fb5c7a56fbc1a69f5e1cb3b0a63e3680b3f0fee1fdd56d9f0cedea8a2761"
